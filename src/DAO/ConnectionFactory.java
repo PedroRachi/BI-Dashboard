@@ -21,11 +21,11 @@ public class ConnectionFactory {
 		
 		String serverName = "localhost"; // caminho do servidor do BD
 
-		String mydatabase = "CentralOnline"; // nome do seu banco de dados
+		String mydatabase = "Dashboard"; // nome do seu banco de dados
 
 		String url = "jdbc:mysql://" + serverName + "/" + mydatabase;
 
-		String username = "root"; // nome de um usu·rio de seu BD
+		String username = "root"; // nome de um usu√°rio de seu BD
 
 		String password = ""; // sua senha de acesso
 		
